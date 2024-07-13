@@ -12,8 +12,8 @@ title                    : "Garima's Homepage"
 title_separator          : "-"
 name                     : &name "Garima Acharya"
 description              : &description " A civil engineering graduate with interests in climate, hydrology, and the environment"
-url                      : https://garima.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://pgarimap.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "pgarimap.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
