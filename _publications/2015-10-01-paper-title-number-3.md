@@ -1,7 +1,7 @@
 ---
 title: "Roadmap to reach global net-zero emissions for developing regions by 2085"
 collection: publications
-permalink: /publication/2024-01-01-climate-change-water-resources
+permalink: /publication/net_zeroemissions
 excerpt: "As climate change intensifies, developing regions must play a crucial role in achieving net-zero emissions, but regional efforts remain underexplored. Our analysis highlights the need for substantial energy system transformations and increased investments, with varying adoption rates of emerging technologies like electric vehicles, hydrogen, and carbon capture across regions, requiring significant financial commitment to achieve a carbon-neutral future by 2085."
 status: "under-review"
 authors: "Garima Acharya , Pramish Paudel, Douglas J. Arent, Elena Gaura, Shukra Raj Paudel"
