@@ -1,7 +1,7 @@
 ---
-title: "Best Interpolation Method"
+title: "Determination of the Best Interpolation Method for Hydrological Analysis"
 date: 2024-01-01
-skills: ["Machine Learning", "Biohydrogen", "Data Analysis"]
+skills: ["Python", "Scikit learn", "Data Analysis"]
 excerpt: "Identification of the most effective interpolation technique for filling gaps in temperature and precipitation data"
 permalink: /projects/project1/
 layout: project
@@ -11,15 +11,15 @@ layout: project
 
 This project explores the application of machine learning techniques to enhance the efficiency of biohydrogen production. 
 
-- **Objective**: To optimize biohydrogen production processes.
-- **Techniques**: Machine learning algorithms, data analysis.
-- **Results**: Improved production efficiency, reduced costs.
+##Methodology
 
-## Key Features
+Machine learning algorithms, data analysis.
 
-- **Machine Learning Algorithms**: Implemented various ML algorithms.
-- **Data Analysis**: Comprehensive data analysis for process optimization.
-- **Sustainability**: Focused on sustainable production methods.
+##Results
+
+Improved production efficiency, reduced costs.
+
+
 
 ## Contact Information
 
