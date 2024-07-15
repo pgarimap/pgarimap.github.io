@@ -14,10 +14,13 @@ submission_date: "2024-07-1"
 ## Research Highlights
 -Decarbonization in five regions of the global south to reach net-zero
 emissions by 2085 is explored.
+
 -Urgent need to quintuple renewable energy consumption by 2050 and to
 halve non-renewables.
+
 -Minor-emitting regions require a more drastic technology adoption rate by
 2085.
+
 -Over half of the investment for the decarbonization is needed for the years
 after 2050. ​​
 ### Graphical Abstract
