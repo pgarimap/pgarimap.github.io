@@ -3,7 +3,7 @@ title: "Water, sanitation, and hygiene of Nepal: Status, challenges, and opportu
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Ensuring access to water, sanitation, and hygiene (WASH) in South Asia, especially in climate-sensitive Nepal, remains challenging despite its water abundance. Significant inequalities exist between urban and rural areas, rich and poor, and genders. This review analyzes Nepal's WASH progress from 2000 to 2020, identifying challenges like infrastructural, financial, and policy issues, and suggests roles for government and private sector involvement to develop a climate-resilient WASH sector.'
-date: 2023/1/30
+date: 2023-01-30
 venue: 'ACS ES&T Water'
 paperurl: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tC4B6k0AAAAJ&citation_for_view=tC4B6k0AAAAJ:u-x6o8ySG0sC'
 citation: 'Aman Shrestha, Tek Narayan Bhattarai, **Garima Acharya**, Haribansha Timalsina, Sara J. Marks, Sital Uprety, and Shukra Raj Paudel
