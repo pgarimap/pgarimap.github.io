@@ -11,21 +11,24 @@ author_profile: true
 
 {% include base_path %}
 
-# Publications
+
+# Published
 {% for post in site.publications reversed %}
   {% if post.status == 'published' %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
-# Under Review
+
+# Under-review
 {% for post in site.publications reversed %}
   {% if post.status == 'under-review' %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
-# Under Preparation
+
+# Under-preparation
 {% for post in site.publications reversed %}
   {% if post.status == 'under-preparation' %}
     {% include archive-single.html %}
