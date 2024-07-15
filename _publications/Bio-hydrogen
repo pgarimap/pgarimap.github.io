@@ -2,16 +2,14 @@
 title: "The role of machine learning in biohydrogen production"
 collection: publications
 permalink: /publication/Bio-hydrogen
-excerpt: "This chapter explores the shift towards green hydrogen production, emphasizing biological processes as sustainable solutions linking waste management to energy production. It highlights the role of machine learning in optimizing and scaling biohydrogen production by automating systems, predicting growth conditions, and developing microbial strains.
+excerpt: "This chapter explores the shift towards green hydrogen production, emphasizing biological processes as sustainable solutions linking waste management to energy production."
 status: "under-preparation"
-authors: "Garima Acharya, Suniti Shrestha, Shukra Raj Puadel "
+authors: "Garima Acharya, Suniti Shrestha, Shukra Raj Paudel"
 ---
 
 ## Research Description
-The growing energy demand and the climate crisis have catalyzed a shift towards clean energy sources such as hydrogen. Green hydrogen production, particularly through water electrolysis, is gaining traction over traditional methods that rely on natural gas. However, the sustainability of hydroelectricity-powered hydrogen production is compromised by water scarcity, exacerbated by climate change, even in regions with abundant renewable energy. In response, biological processes are emerging as promising, low-cost, and sustainable solutions that convert low-value materials into green hydrogen, establishing a crucial link between waste management and energy production. Despite the potential, the commercial adoption of biohydrogen faces significant supply-side barriers, requiring the optimization of various operational parameters for large-scale implementation. This chapter delves into the role of cutting-edge machine learning models in automating production systems, predicting optimal growth conditions, and developing new microbial strains, thereby enhancing the efficiency and scalability of biohydrogen production. The models are critically assessed based on their characteristics, required objective functions, production sources, and evaluation factors, highlighting the intersection of technology and sustainability in advancing green hydrogen initiatives.
-
+The growing energy demand and the climate crisis have catalyzed a shift towards clean energy sources such as hydrogen. Green hydrogen production, particularly through water electrolysis and biological processes, offers a sustainable solution. This chapter explores the integration of machine learning techniques in optimizing biohydrogen production processes.
 
 ### Contact Information
 For more information about this study, please contact:
 [Garima Acharya](mailto:garima.acharya58@gmail.com)
-
