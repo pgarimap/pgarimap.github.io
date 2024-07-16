@@ -210,6 +210,17 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  activity:
+    output: true
+    permalink: /:collection/:path/
+   awards:
+    output: true
+    permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
+  
+    
 
 
 # Defaults
