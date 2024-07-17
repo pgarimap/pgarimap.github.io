@@ -195,30 +195,29 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-
 # Collections
 collections:
   teaching:
     output: true
-    permalink: /:collection/:path/
+    permalink: /teaching/:path/
   publications:
     output: true
-    permalink: /:collection/:path/
+    permalink: /publications/:path/
   portfolio:
     output: true
-    permalink: /:collection/:path/
+    permalink: /portfolio/:path/
   talks:
     output: true
-    permalink: /:collection/:path/
-  activity:
+    permalink: /talks/:path/
+  activities:
     output: true
-    permalink: /:collection/:path/
-   awards:
+    permalink: /activities/:path/
+  awards:
     output: true
-    permalink: /:collection/:path/
+    permalink: /awards/:path/
   projects:
     output: true
-    permalink: /:collection/:path/
+    permalink: /projects/:path/
   
     
 
