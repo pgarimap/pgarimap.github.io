@@ -212,13 +212,13 @@ collections:
     permalink: /:collection/:path/
   activity:
     output: true
-    permalink: /:collection/:path/
+    permalink: /activity/:path/
    awards:
     output: true
-    permalink: /:collection/:path/
+    permalink: /awards/:path/
   projects:
     output: true
-    permalink: /:collection/:path/
+    permalink: /projects/:path/
   
     
 
