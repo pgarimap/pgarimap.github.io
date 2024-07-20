@@ -17,7 +17,7 @@ author_profile: true
 # Published
 {% for post in site.publications reversed %}
   {% if post.status == 'published' %}
-    {% include archive-single.html %}
+    {% include archive-single-custom.html %}
   {% endif %}
 {% endfor %}
 
@@ -25,7 +25,7 @@ author_profile: true
 # Under-review
 {% for post in site.publications reversed %}
   {% if post.status == 'under-review' %}
-    {% include archive-single.html %}
+    {% include archive-single-custom.html %}
   {% endif %}
 {% endfor %}
 
@@ -33,6 +33,6 @@ author_profile: true
 # Under-preparation
 {% for post in site.publications reversed %}
   {% if post.status == 'under-preparation' %}
-    {% include archive-single.html %}
+    {% include archive-single-custom.html %}
   {% endif %}
 {% endfor %}

@@ -26,7 +26,7 @@ author:
   pronouns         : "she/her"  
   bio              : "Engineering the environment"
   location         : "Kathmandu, Nepal"
-  employer         : "Institute of Engineering, Pulchowk Campus"
+  employer         : "Pulchowk Campus, IOE"
   uri              : # URL
   email            : "garima.acharya58@gmail.com" 
 
@@ -218,9 +218,6 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-  
-    
-
 
 # Defaults
 defaults:
