@@ -1,7 +1,13 @@
 ---
-layout: default
-title: "Community Outreach Program"
-permalink: /activities/community-outreach/
+title: "President, Nepal Water Conservation Foundation"
+positions: publications
+permalink: /activities/president/
+excerpt: "Ensuring access to water, sanitation, and hygiene (WASH) in South Asia, especially in climate-sensitive Nepal, remains challenging despite its water abundance. Significant inequalities exist between urban and rural areas, rich and poor, and genders. This review analyzes Nepal's WASH progress from 2000 to 2020, identifying challenges like infrastructural, financial, and policy issues, and suggests roles for government and private sector involvement to develop a climate-resilient WASH sector."
+date: 2023-01-30
+venue: "Published at: ACS ES&T Water"
+paperurl: "https://pubs.acs.org/doi/abs/10.1021/acsestwater.2c00303"
+citation: "Aman Shrestha, Tek Narayan Bhattarai, Garima Acharya, Haribansha Timalsina, Sara J. Marks, Sital Uprety, and Shukra Raj Paudel. ACS ES&T Water 2023 3 (6), 1429-1453. DOI: 10.1021/acsestwater.2c00303"
+status: "published"
 ---
 
 # Community Outreach Program
