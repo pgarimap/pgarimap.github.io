@@ -1,10 +1,11 @@
 ---
-layout: default
+layout: archive
 title: "Activities"
 permalink: /activities/
+author_profile: true
 ---
 
-# Activities
+[//]: # (# Activities)
 
 {% for activity in site.activities %}
   <div class="activities">

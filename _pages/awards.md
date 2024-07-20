@@ -1,10 +1,11 @@
 ---
-layout: default
+layout: archive
 title: "Awards"
 permalink: /awards/
+author_profile: true
 ---
 
-# Awards
+[//]: # (# Awards)
 
 {% for award in site.awards %}
   <div class="award">

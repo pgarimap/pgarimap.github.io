@@ -1,10 +1,11 @@
 ---
-layout: default
+layout: archive
 title: "Projects"
 permalink: /projects/
+author_profile: true
 ---
 
-# Projects
+[//]: # (# Projects)
 
 {% for project in site.projects %}
   <div class="project">
