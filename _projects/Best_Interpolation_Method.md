@@ -9,7 +9,7 @@ layout: project
 
 ## Project Description
 
-This project explores the application of machine learning techniques to enhance the efficiency of biohydrogen production. 
+This project explores the most suitable method for interpolation of hydro-met data.
 
 ##Methodology
 
