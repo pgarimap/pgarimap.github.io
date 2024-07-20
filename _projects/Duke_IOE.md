@@ -12,6 +12,7 @@ layout: project
 ## Objective
 Develop an early earthquake warning system for Kathmandu Valley using a Multi-Layer Perceptron (MLP) to predict Peak Ground Velocity (PGV) and Peak Ground Acceleration (PGA) based on features from Japanese earthquake records. This project is under collaboration with Duke University and IOE, Pulchowk Campus.
 
+
 ## Methodology
 **Network Architecture:**
 - Input Layer: Features include peak velocity (Pgv), peak acceleration (Pga), change in peak acceleration (dPGA), duration of peak velocity (dPgv), rise time of peak displacement (td), and sensor network stations.
@@ -26,3 +27,5 @@ Analysis: Reasonable prediction accuracy, though variability due to limited trai
 ## Conclusions
 The model shows potential but needs more training data and further optimization to address variability and inconsistency.
 
+## Poster presented at Kathmandu Geohazard Early Warning Research Symposium, March 2024
+![Poster](/images/MLP (1)(2).png)
