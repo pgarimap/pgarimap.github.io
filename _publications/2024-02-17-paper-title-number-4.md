@@ -7,6 +7,7 @@ status: "under-review"
 authors: "Sachita Baniya, Michael J. Angove, Amrita Wagle, Garima Acharya, Manita Khatri, Bandita Mainali , Huu
 Hao Ngo, Wenshan Guo, Shukra Raj Puadel "
 submission_date: "2024-06-15"
+venue: "under review (Impact Factor = 6.7)"
 ---
 
 *under-review at **Journal of Hydrology**
