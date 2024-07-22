@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, I'm Garima!"
+title: "Garima Acharya"
 author_profile: true
 redirect_from: 
   - /about/
