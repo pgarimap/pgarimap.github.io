@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Climate change significantly affects the Hindu Kush Himalaya (HKH) region, which is warming nearly three times faster than the global average. This article examines how climate change influences the interconnections between SDG 6 (clean water and sanitation), SDG 7 (affordable and clean energy), and SDG 15 (life on land) to support effective strategies for achieving these goals in the HKH region.'
 date: 2024/3/3
-venue: 'International Journal of Environmental Studies'
+venue: 'Published in International Journal of Environmental Studies'
 paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/00207233.2024.2322883'
-citation: 'Acharya, G., Shrestha, S., Poudel, S., & Paudel, S. R. (2024). Climate change challenges to meeting the sustainable development goals in the Hindu Kush Himalayan region. International Journal of Environmental Studies, 81(2), 531–536. https://doi.org/10.1080/00207233.2024.2322883'
+citation: 'Acharya, G., Shrestha, S., Poudel, S., & Paudel, S. R.'
 status: 'published'
 graphical_abstract: "/images/GA_climate_change.png"
 ---
