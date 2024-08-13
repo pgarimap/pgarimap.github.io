@@ -2,7 +2,7 @@
 title: "Roadmap to reach global net-zero emissions for developing regions by 2085"
 collection: publications
 permalink: /publication/net_zeroemissions
-excerpt: "As climate change intensifies, developing regions must play a crucial role in achieving net-zero emissions, but regional efforts remain underexplored. Our analysis highlights the need for substantial energy system transformations and increased investments, with varying adoption rates of emerging technologies like electric vehicles, hydrogen, and carbon capture across regions, requiring significant financial commitment to achieve a carbon-neutral future by 2085."
+excerpt: " As climate change worsens, the importance of developing regions in reaching net-zero emissions grows, though their contributions have not been thoroughly examined. Our analysis highlights the need for substantial energy system transformations and increased investments, with varying adoption rates of emerging technologies like electric vehicles, hydrogen, and carbon capture across regions, requiring significant financial commitment to achieve a carbon-neutral future by 2085."
 status: "under-review"
 authors: "Garima Acharya , Pramish Paudel, Douglas J. Arent, Elena Gaura, Shukra Raj Paudel"
 submission_date: "2024-07-1"
