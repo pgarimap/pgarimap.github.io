@@ -12,5 +12,5 @@ MeasureMe.AI is a 3D body monitoring startup based in Nepal, aimed at revolution
 The startup made history by winning the Hult Prize Kathmandu Regionals, standing out among over 100 on-campus winner teams from four different countries in South Asia, and ultimately placing in the Top 16 globally. This achievement has garnered significant media attention, with features in prominent outlets such as Routine of Nepal Banda, Technology Khabar, and ICT Frame. Furthermore, MeasureMe.AI has collaborated with Daraz, Nepal as part of the Daraz Students Ambassadors in Innovation initiative.
 
 ## Pictures
-![Award Presentation](path/to/presentation.jpg)
-![Award Certificate](path/to/certificate.jpg)
+![Award Presentation](/images/REGIONAL_WINNER_CERTIFICATE.png)
+
