@@ -1,7 +1,7 @@
+---
 layout: default
 title: "Semester Topper - Civil Engineering, Seventh Semester"
 permalink: /awards/semester-topper-7th-semester/
-
 ---
 
 # Semester Topper - Civil Engineering, Seventh Semester
