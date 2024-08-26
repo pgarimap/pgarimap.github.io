@@ -1,7 +1,7 @@
+---
 layout: default
 title: "Top 16 Social Entrepreneurs in the World - Hult Prize $1M Challenge"
 permalink: /awards/hult-prize-2023/
-
 ---
 
 # MeasureMe.AI: Transforming Health Monitoring
