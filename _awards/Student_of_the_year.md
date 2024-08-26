@@ -12,5 +12,5 @@ Honored as the first recipient of the 'Student of the Year 2080' award at Pulcho
 This award highlights not only **academic excellence** but also a commitment to contributing meaningfully to the **campus community and beyond**. 
 
 ## Pictures
-![Pulchowk Pride Award](/images/SOTY.jpg)
+![Pulchowk Pride Award](/images/SOTY.png)
 
