@@ -4,7 +4,7 @@ permalink: /awards/hult-prize-2023/
 
 ---
 
-# MeasureMe.AI: Transforming Health Monitoring and Management
+# MeasureMe.AI: Transforming Health Monitoring
 
 ## Description
 MeasureMe.AI is a 3D body monitoring startup based in Nepal, aimed at revolutionizing health monitoring and management through advanced technology. The startup was the winner of the Hult Prize On-Campus Event, 2023, selected from among 113 teams from 15 IOE Constituent Campuses. MeasureMe.AI's innovative approach has been recognized not only by the Ministry of Health, Nepal, but also by prominent organizations such as the Nepal Engineer’s Association (NEA) and the Office of the Dean, IOE.
