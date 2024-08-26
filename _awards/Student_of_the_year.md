@@ -1,7 +1,7 @@
+---
 layout: default
 title: "Student of the Year - Pulchowk Campus, 2080"
 permalink: /awards/student-of-the-year-2080/
-
 ---
 
 # Student of the Year - Pulchowk Campus, 2080
