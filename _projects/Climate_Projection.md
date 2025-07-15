@@ -4,7 +4,8 @@ date: 2024-01-01
 skills: ["Climate Modeling", "Statistical Downscaling", "Quantile Mapping"]
 excerpt: "Projection of future climate trends in the Gandaki River Basin using CMIP6 GCM outputs and SSP scenarios."
 permalink: /projects/climate-projection
-layout: project
+layout: archive
+weight: 3
 ---
 
 ## Project Overview

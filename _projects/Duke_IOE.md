@@ -4,7 +4,8 @@ title: "Application of a Multi-Layer Perceptron in Early Earthquake Warning Syst
 skills: ["Pytorch", "Pandas", "Numpy"]
 excerpt: "Identification of the most effective interpolation technique for filling gaps in temperature and precipitation data"
 permalink: /projects/project1/
-layout: project
+layout: archive
+weight: 2
 ---
 ## Project Overview
 **Title**: Application of a Multi-Layer Perceptron in Early Earthquake Warning Systems

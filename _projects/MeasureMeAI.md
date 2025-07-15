@@ -4,7 +4,8 @@ date: 2024-01-01
 skills: ["3D Body Monitoring", "Social Entrepreneurship"]
 excerpt: "Leading the way in 3D body monitoring technology as the Chief Operational Officer at MeasureMe.AI, a pioneering startup from Nepal."
 permalink: /projects/measureme-ai
-layout: project
+layout: archive
+weight: 5
 ---
 
 ## Project Overview

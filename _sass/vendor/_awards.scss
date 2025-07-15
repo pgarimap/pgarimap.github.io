@@ -1,0 +1,35 @@
+a.award-title {
+  color: #333;
+  text-decoration: none;
+}
+
+a.award-title:hover {
+  color: #0077cc;
+  text-decoration: underline;
+}
+
+a.read-more-link {
+  font-style: italic;
+  color: #666;
+  text-decoration: none;
+  font-size: 0.95em;
+}
+
+a.read-more-link:hover {
+  color: #0077cc;
+  text-decoration: underline;
+}
+.glimpses-gallery {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  max-width: 600px;
+}
+
+.glimpse-img {
+  width: 100%;
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}

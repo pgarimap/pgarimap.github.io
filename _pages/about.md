@@ -6,9 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a fresh graduate of Civil Engineering from Pulchowk Campus, Institute of Engineering, Nepal. My research focuses on water resources engineering, hydrology, environmental engineering, and energy transition.
+ My research focuses on water resources engineering, hydrology, environmental engineering, and energy transition. For Fall 2025, I have been accepted to MS in Environmental Engineering at **Stanford University** and **University of California, Berkeley** (#1 Graduate program for EE).
 
-**Currently:** I am dedicated as a research intern at the Center for Water Resources Studies, Nepal (CWRS), aiming to develop a high-resolution gridded climate data product for Nepal. Furthermore, I am evaluating the role of machine learning in bio-hydrogen production, emphasizing bio-hydrogen as a sustainable fuel source for a net-zero emission future.
+
+**Currently:** I am working as a consultant for Oxfam, Nepal for WASH system strengthening of local governments of Nepal. Additionally, I am working on my startup, Paani AI. With Paani AI, we aim to transform the water sector of Nepal through data and innovation.
 
 **My 2030 goal:** I envision reducing the vulnerability of people to the effects of climate change through the **nexus** of **water, energy, and the environment.**
 

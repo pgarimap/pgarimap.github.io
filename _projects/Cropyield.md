@@ -4,7 +4,8 @@ date: 2024-01-01
 skills: ["Climate Modeling", "AquaCrop Model", "Agricultural Impact Assessment"]
 excerpt: "Assessing the impact of climate change on crop yields in the irrigable lands of Nawalparasi and Chitwan districts using the AquaCrop model."
 permalink: /projects/crop-yield-projection
-layout: project
+layout: archive
+weight: 4
 ---
 
 ## Project Overview

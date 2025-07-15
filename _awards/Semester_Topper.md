@@ -1,17 +1,20 @@
 ---
-layout: default
-title: "Semester Topper - Civil Engineering, Seventh Semester"
-permalink: /awards/semester-topper-7th-semester/
+layout: archive
+title: "Academic Excellence at Nepal’s Top Engineering College – Pulchowk Campus"
+permalink: /awards/academic-excellence-pulchowk/
+author_profile: true
+weight: 5
 ---
 
-# Semester Topper - Civil Engineering, Seventh Semester
+# 🎓 Academic Excellence at Nepal’s Top Engineering College – Pulchowk Campus
 
 ## Description
-Achieved the distinction of Semester Topper among 200 Civil Engineering students during the seventh semester at Pulchowk Campus, Institute of Engineering, Nepal. This recognition underscores academic excellence in one of the most competitive programs at the nation’s top engineering college. 
 
-The honor reflects a strong dedication to mastering the rigorous curriculum and contributing to the field of civil engineering through consistent performance and academic achievement.
+Recognized as the **Semester Topper** among **200 Civil Engineering students** during the seventh semester at **Pulchowk Campus**, Institute of Engineering (IOE), Nepal.
 
-## Pictures
-![Award Presentation](path/to/presentation.jpg)
-![Award Certificate](path/to/certificate.jpg)
+Pulchowk Campus is Nepal’s most competitive engineering college, with an **acceptance rate of just 2.5% nationally**. In 2019, I was selected as one of the **top national performers** in the IOE entrance examination and awarded a **fully-funded government scholarship** for four years of undergraduate study.
+
+I also ranked as the **second-highest female applicant in Nepal** among thousands of aspiring engineers – a reflection of academic dedication, perseverance, and passion for engineering.
+
+---
 
